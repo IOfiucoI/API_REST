@@ -1,0 +1,5 @@
+#Evita navegacion en ficheros
+#Options -Indexes
+
+#Muestra mensaje de eror si la ruta no existe
+#ErrorDocument 404 Error_Not_Fount
